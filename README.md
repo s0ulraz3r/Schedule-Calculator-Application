@@ -20,3 +20,5 @@
 * Editable text views only allow the user to enter numbers and a decimal point.
 
 > For installation and other instructions read the Readme file inside ReadMe folder. 
+##### Project assgined By: Prof Avery.
+##### Project Developed By: Varun Krishna.
